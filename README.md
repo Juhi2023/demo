@@ -1,3 +1,3 @@
 # demo
 
-class2
+class3
